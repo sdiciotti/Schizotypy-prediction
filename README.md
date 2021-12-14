@@ -4,7 +4,7 @@
 
 If you use this repository, please cite it as:
 
-Trajkovic, J., Di Gregorio, F., Ferri, F., Marzi, C., Diciotti, S. and Romei, V. **Resting-state alpha oscillatory activity as a valid and reliable marker of schizotypy: a machine learning approach**. Under review in Scientific Reports.
+Trajkovic J, Di Gregorio F, Ferri F, Marzi C, Diciotti S, Romei V. **Resting state alpha oscillatory activity is a valid and reliable marker of schizotypy.** Sci Rep. 2021 May 17;11(1):10379. doi: 10.1038/s41598-021-89690-7. Erratum in: Sci Rep. 2021 Jun 23;11(1):13487. PMID: 34001914; PMCID: PMC8129121.
 
 This document provides a quick introduction to the [Schizotypy\_group\_prediction.py](Schizotypy\_group\_prediction.py)  to help new users get started.  
 
